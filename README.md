@@ -27,15 +27,19 @@ This project demonstrates how to deploy and serve a Machine Learning model using
 
 ## 📂 Project Structure
 
-```
-├── app.py
-├── predict.py
-├── model.pkl
-├── schema/
+Insurance-Risk-and-Cost-Predictor/
+│
+├── Model/
+├── __pycache__/
 ├── config/
-├── requirements.txt
-└── README.md
-```
+├── schema/
+├── README.md
+├── Train_Model.py
+├── app.py
+├── frontend.py
+├── insurance.csv
+└── requirements.txt
+
 
 ## 📥 Input
 
